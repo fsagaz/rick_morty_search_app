@@ -1,0 +1,12 @@
+.carditem {
+  background-color: white;
+  align-content: space-around;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  border-radius: 6px;
+  .carditemdetail{
+    margin-top: 5% !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+}

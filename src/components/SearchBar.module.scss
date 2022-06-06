@@ -1,0 +1,26 @@
+.searchbar {
+  width: 100%;
+  border-radius: 7px;
+  margin-top:5%;
+  padding: 3%;
+
+  input{
+    height: 60px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font: normal 19px Arial;
+    -webkit-text-fill-color: greenyellow;
+    -webkit-text-stroke: 1px;
+
+    
+  }
+
+  .iconcustom {
+    margin-right: 37px !important;
+  }
+}
+
+.suggestionscontainer{
+  margin-top: -1rem !important;
+  margin-bottom: 3rem !important;
+}

@@ -1,0 +1,21 @@
+.buttoncontainer {
+  display: flex !important;
+  align-items: center !important;
+  
+}
+.buttonback {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  max-width: 200px;
+  
+  margin: 0 auto !important;
+
+  button {
+    background-color: black !important;
+    color: #5bea48 !important;
+    height: 49px;
+    font-size: 14px;
+    margin-top: 30px !important;
+  }
+}
