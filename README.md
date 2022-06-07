@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Rick&Morty characters search app
+The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 
